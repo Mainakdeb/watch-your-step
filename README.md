@@ -1,6 +1,6 @@
 # watch-your-step
 
-The 'frozen-lake' environment is a grid consisting of a starting point, ice, holes and a goal. Each of them are represented by an alphabet :
+The 'frozen-lake' environment is a grid which contains a starting point, ice blocks, holes and a goal block. Each of them are represented by an alphabet :
 * S represents the starting point of tehe agent, it's safe. 
 * F represents the frozen surface which too is safe.
 * H represents a hole and if our agent steps into the hole, the episode terminates (he dies). 
