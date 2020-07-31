@@ -20,11 +20,11 @@ This updated Q table guides the agent to the goal in the given cases below.
 ## When is_slippery = False :
 ![Test](https://github.com/Mainakdeb/watch-your-step/blob/master/gifs/frozen-lake-2.gif)
 
-In this case, the agent always chooses the shortest and successfully executes all the intended actions. 
+In this case, the agent always chooses the shortest path and successfully executes all the intended actions. 
 
 ## When is_slippery = True :
 ![Test](https://github.com/Mainakdeb/watch-your-step/blob/master/gifs/frozen-lake-1.gif)
 
-The intended action (from the Q table) is not always successfully executed. The agent 'slips' most of the time but still reaches the goal.
+The intended action (from the Q table) is not always successfully executed. The agent 'slips' most of the time but still reaches the goal. 
 
 
