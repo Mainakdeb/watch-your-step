@@ -28,4 +28,6 @@ In this case, the agent always chooses the shortest path and successfully execut
 
 The intended action (from the Q table) is not always successfully executed. The agent 'slips' most of the time but still reaches the goal. 
 
-
+### Links:
+* [OpenAI's forzen-lake environment](https://gym.openai.com/envs/FrozenLake-v0/)
+* [Reinforcement learning tutorials by Deep-Lizard](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
